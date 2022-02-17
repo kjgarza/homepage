@@ -18,7 +18,7 @@ page_sections:
   - link: "#references"
     link_text: References
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+    url: /uploads/cv.pdf
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
@@ -28,7 +28,7 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: www.linkedin.com/in/kjgarza
+    url: https://www.linkedin.com/in/kjgarza
     button_text: 'See on LinkedIn '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"

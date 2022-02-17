@@ -18,7 +18,7 @@ page_sections:
   - link: "#references"
     link_text: References
   cta:
-    url: /uploads/cv.pdf
+    url: "/uploads/cv.pdf"
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2

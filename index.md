@@ -7,23 +7,19 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: ''
-    link_text: Papa
-  - link: ''
-    link_text: Posts
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
+  - link: '/'
+    link_text: Home
+  - link: "#product"
+    link_text: Design
+  - link: "#development"
+    link_text: Dev
   - link: "#responsive"
     link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#references"
+    link_text: References
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    button_text: Download
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -32,8 +28,8 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: www.linkedin.com/in/kjgarza
+    button_text: 'See on LinkedIn '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
@@ -41,7 +37,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
+  slug: product
   headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
     class="light">the Blocks to create sites quickly</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
@@ -52,7 +48,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
+  slug: development
   headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
     edits throughout your new site</span>
   content: Each block comes with custom Front Matter that can be edited in Forestry
@@ -72,7 +68,7 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
-  slug: blocks
+  slug: references
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

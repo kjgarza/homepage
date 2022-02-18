@@ -65,7 +65,7 @@ page_sections:
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
 - template: content-feature
-  block: block-references-1
+  block: references-1
   # image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks fff
   slug: references

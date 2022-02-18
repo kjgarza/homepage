@@ -66,7 +66,7 @@ page_sections:
     create new sites and make them fully customizable.
 - template: content-references
   block: references-1
-  # image: "/uploads/2018/06/21/theme.png"
+  headline: Published Work
   references: 
   - reference_item: "Garza, K. (2013). <i>Individual Motivations Change Activity in Online Scientific Communities</i>. figshare. <a href='https://doi.org/10.6084/M9.FIGSHARE.830404'>https://doi.org/10.6084/M9.FIGSHARE.830404</a>"
   - reference_item: "Garza, K. (2014). <i>seek-analytics</i>. figshare. <a href='https://doi.org/10.6084/M9.FIGSHARE.1211850'>https://doi.org/10.6084/M9.FIGSHARE.1211850</a>"

@@ -42,8 +42,8 @@ page_sections:
     class="light">and Data-driven approaches</span>
   content: Experienced in running Design Sprints, Group-based expert walkthroughs, Lighting Decision Jams for complex apps in specialized domains.
   media:
-    image: "/uploads/design-sprint-eosc.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/homepage/uploads/design-sprint-eosc.png"
+    alt_text: Design Sprint Board for Metadata Harveststing Service
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -104,7 +104,6 @@ page_sections:
   - reference_item: "Garza, K. (2021). <i>Product Roadmap -Today and beyond</i>. <a href='https://doi.org/10.5281/ZENODO.5534129'>https://doi.org/10.5281/ZENODO.5534129</a>"
   - reference_item: "Garza, K., &amp; Hirsch, M. (2021). <i>DataCite Open Hours in 2021</i>. <a href='https://doi.org/10.5438/KW4K-Q070'>https://doi.org/10.5438/KW4K-Q070</a>"
   - reference_item: "Garza, K., Strecker, D., Ninkov, A., Schabinger, R., &amp; Gregory, K. (2021). <i>DFG to OECD subject classification Mapping</i> (Version 1.0). Zenodo. <a href='https://doi.org/10.5281/ZENODO.5176121'>https://doi.org/10.5281/ZENODO.5176121</a>"
-
   slug: references
 - template: detail-content
   block: text-1

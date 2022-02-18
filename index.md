@@ -66,8 +66,8 @@ page_sections:
     create new sites and make them fully customizable.
 - template: 1-column-text
   block: block-references-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+  # image: "/uploads/2018/06/21/theme.png"
+  caption: All Available Blocks fff
   slug: references
 - template: detail-content
   block: text-1

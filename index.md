@@ -18,7 +18,7 @@ page_sections:
   - link: "#references"
     link_text: References
   cta:
-    url: "/uploads/cv.pdf"
+    url: "/homepage/uploads/cv.pdf"
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
@@ -64,7 +64,7 @@ page_sections:
     The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
-- template: full-width-media-element
+- template: bloc-references-1
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks

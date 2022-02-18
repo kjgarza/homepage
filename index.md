@@ -18,7 +18,7 @@ page_sections:
   - link: "#references"
     link_text: References
   cta:
-    url: "/homepage/uploads/cv.pdf"
+    url: "/uploads/2022/02/18/cv.pdf"
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
@@ -42,7 +42,7 @@ page_sections:
     class="light">and Data-driven approaches</span>
   content: Experienced in running Design Sprints, Group-based expert walkthroughs, Lighting Decision Jams for complex apps in specialized domains.
   media:
-    image: "/homepage/uploads/design-sprint-eosc.png"
+    image: "/uploads/2022/02/18/designsprint-eosc.png"
     alt_text: Design Sprint Board for Metadata Harveststing Service
 - template: content-feature
   block: feature-1

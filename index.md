@@ -13,8 +13,6 @@ page_sections:
     link_text: Design
   - link: "#development"
     link_text: Dev
-  - link: "#responsive"
-    link_text: Responsive
   - link: "#references"
     link_text: References
   cta:
@@ -48,19 +46,21 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: development
-  headline: <strong>Customize Blocks</strong><span class="light">Experienced in a range of technologies. From setting up AWS infrastructure using Terraform, to developing front-end apps in both React, Ember, and Vue. Passing through developing Rails-based REST and GraphQL APIs.</span>
-  content: Architected and implemented and Usage Metrics processing pipeline(inc. REST API, queueing, display)that is currently used by hundreds of organizations worldwide. Engineered the developed a set of web components (in VueJs, using CustomElements) that targeted customers with low development resourcing.
+  headline: <strong>Experienced in a range of technologies</strong><span class="light"> used in front-end, back-end and infrastructure.</span>
+  content: Architected and implemented and Usage Metrics processing pipeline <a class="kglink" href="https://github.com/datacite/sashimi">(inc. REST API, queueing, display)</a> that is currently used by hundreds of organizations worldwide. Engineered the developed a set of web components <a class="kglink" href="https://github.com/datacite/spitz">(in VueJs, using CustomElements)</a> that targeted customers with low development resourcing. Experienced on setting up AWS infrastructure using <a class="kglink" href="https://github.com/datacite/mastino"> Terraform </a>, to developing front-end apps in both <a class="kglink" href="https://github.com/datacite/bracco">React</a> and <a class="kglink" href="https://github.com/datacite/bracco">Ember</a>. Passing through developing <a class="kglink" href="https://github.com/datacite/lupo"> Rails-based REST</a> and <a class="kglink" href="https://github.com/datacite/lupo/tree/master/app/graphql"> GraphQL APIs</a> 
+
+ 
   media:
     image: "/uploads/2022/02/18/code.png"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>". Once the site is imported you can immediately
-    create new sites and make them fully customizable.
+# - template: 1-column-text
+#   block: one-column-1
+#   slug: responsive
+#   headline: 16 Fully Responsive Design Blocks
+#   content: |
+#     The Design Blocks can be used without Forestry but to harness the power
+#     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>". Once the site is imported you can immediately
+#     create new sites and make them fully customizable.
 - template: content-references
   block: references-1
   headline: Published Work

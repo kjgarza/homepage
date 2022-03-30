@@ -5,11 +5,11 @@
         <h2 id="{{section.slug}}"><strong>{{ section.headline }}</strong></h2>
       </div>
       <div class="column text">
-        <ul>
+        <ol reversed="reversed">
           {% for reference_item in section.references %}
           <li><p>{{ reference_item }}</p></li>
           {% endfor %}
-        </ul>
+        </ol>
       </div>
     </div>
   </div>

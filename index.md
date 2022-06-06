@@ -5,7 +5,7 @@ date: 2022-01-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  # logo: "/uploads/2022/02/18/logo-web-3.png"
   navigation:
   - link: '/'
     link_text: Home
@@ -14,7 +14,7 @@ page_sections:
   - link: "#development"
     link_text: Dev
   - link: "#references"
-    link_text: References
+    link_text: Publications
   cta:
     url: "/homepage/uploads/2022/02/18/cv.pdf"
     button_text: Download
@@ -22,14 +22,13 @@ page_sections:
   block: hero-2
   slug: features
   headline: Kristian <br><strong>Garza Gutierrez</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content:  Now, I work at Datacite as the Product Design Mananger. The goal is to bring the value of state-of-the-art design thinking practices to the Open Science Community and specially to design stat-of-the-art PID services.
   cta:
     enabled: true
     url: https://www.linkedin.com/in/kjgarza
     button_text: 'See on LinkedIn '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2022/02/18/photo.jpeg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature

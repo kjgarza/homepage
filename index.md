@@ -38,7 +38,7 @@ page_sections:
   slug: product
   headline: <strong>Passioned about Research<span class="light">&nbsp;</span></strong><span
     class="light">and Data-driven approaches</span>
-  content: Experienced in running <a class="kglink" href="https://forestrdy.io">Design Sprints</a>, Group-based expert walkthroughs, <a class="kglink" href="https://foredstry.io">Lighting Decision Jams</a> for complex apps in specialized domains.
+  content: Experienced in running <a class="kglink" href="https://miro.com/app/board/o9J_kg4jVgQ=/">Design Sprints</a>, Group-based expert walkthroughs, <a class="kglink" href="https://miro.com/app/board/uXjVOZtNNlI=/?share_link_id=691813336807">Lighting Decision Jams</a> for complex apps in specialized domains.
   media:
     image: "/uploads/2022/02/18/designsprint-eosc.png"
     alt_text: Design Sprint Board for Metadata Harveststing Service
